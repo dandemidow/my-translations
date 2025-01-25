@@ -1,6 +1,6 @@
-Miss Read
-«Emily Davis»
-p. 127-147
+Miss Read  
+«Emily Davis»  
+p. 127-147  
 
 
 Billy remained an only child, and a highly satisfactory one. He was almost thirteen when his father returned from the war and working well at the grammar school. He had found the transition from the little school at Springbourne to the large boys' school somewhat unnerving, but by the time his father came back he had settled down and was enjoying the work.
