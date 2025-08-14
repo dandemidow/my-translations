@@ -21,14 +21,14 @@ _by F. Scott Fitzgerald_
 
 
 **My Ghost of a Chance**  
-_by Madeline Yale Wynne__  
+_by Madeline Yale Wynne_  
 [origin](origin/my_ghost_of_a_chance.md)
 [rus](ru/my_ghost_of_a_chance.md)
 
 
 **The Confrontation**  
-_by Georgine Natelli DeAngelis__  
-feat @frenjap
+_by Georgine Natelli DeAngelis_  
+feat. @frenjap  
 [origin](origin/the_confrontation.md)
 [rus](ru/the_confrontation.md)
 
