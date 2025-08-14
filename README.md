@@ -25,3 +25,15 @@ _by Madeline Yale Wynne__
 [origin](origin/my_ghost_of_a_chance.md)
 [rus](ru/my_ghost_of_a_chance.md)
 
+
+**The Confrontation**  
+_by Georgine Natelli DeAngelis__  
+feat @frenjap
+[origin](origin/the_confrontation.md)
+[rus](ru/the_confrontation.md)
+
+
+**The Card**  
+_by James Ross__  
+[origin](origin/the_card.md)
+[rus](ru/the_card.md)
