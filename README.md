@@ -17,4 +17,11 @@ _by Miss Read_
 **A Full Life**  
 _by F. Scott Fitzgerald_  
 [origin](origin/full_life.md)
-[rus](ru/full_life.md)
+[rus](ru/full_life.md)  
+
+
+**My Ghost of a Chance**  
+_by Madeline Yale Wynne__  
+[origin](origin/my_ghost_of_a_chance.md)
+[rus](ru/my_ghost_of_a_chance.md)
+
